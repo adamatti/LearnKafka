@@ -1,0 +1,1 @@
+Pet project to test kafka client (producer and consumer).

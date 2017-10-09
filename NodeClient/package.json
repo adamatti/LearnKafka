@@ -1,0 +1,12 @@
+{
+    "engines": {
+        "node": "8.4.0",
+        "npm": "5.4.2"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "kafka-node": "^2.2.3"
+    }
+}
